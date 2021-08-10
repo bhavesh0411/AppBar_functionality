@@ -1,4 +1,4 @@
-# sorta_learning_series_1 (Learning 1)
+# sorta_learning_seies(Learning 1-AppBar Functionality)
 
 A project based on learning differnt concept of flutter.
 
