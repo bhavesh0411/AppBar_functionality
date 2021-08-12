@@ -1,4 +1,4 @@
-# AppBar Functionalities (sorta_learning_seies - Learning 1)
+# AppBar Functionalities (sorta_learning_series - Learning 1)
 
 A project based on learning differnt concept of flutter.
 
